@@ -1,8 +1,8 @@
 {
   "submodule": "data",
   "file": "portfolio.json",
-  "lastUpdated": "2026-02-06T16:28:07.857Z",
-  "count": 2126,
+  "lastUpdated": "2026-02-06T16:49:17.478Z",
+  "count": 2127,
   "uniqueSymbols": [
     "AAPL",
     "AMC",
@@ -71399,6 +71399,39 @@
         },
         "SGML": {
           "marketValue": "15337.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-06T16:40:08Z",
+      "positions": {
+        "AMC": {
+          "marketValue": "2.94",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2051.255",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1608.25",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "3975.65",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6074.64",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6067.5",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "15506.25",
           "costBasis": "17895.305"
         }
       }
