@@ -1,8 +1,8 @@
 {
   "submodule": "data",
   "file": "portfolio.json",
-  "lastUpdated": "2026-04-21T17:07:51.570Z",
-  "count": 5955,
+  "lastUpdated": "2026-04-21T17:36:40.316Z",
+  "count": 5957,
   "uniqueSymbols": [
     "AAPL",
     "AMC",
@@ -197756,6 +197756,72 @@
         },
         "SGML": {
           "marketValue": "26593.75",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-04-21T17:12:45Z",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.34",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2512.1",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1666.6",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4244.6",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6576.24",
+          "costBasis": "6060.863688"
+        },
+        "QQQ": {
+          "marketValue": "6442.75",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "26375",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-04-21T17:27:45Z",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.3404",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2516.3",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1663.1545",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4245.2",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6577.89",
+          "costBasis": "6060.863688"
+        },
+        "QQQ": {
+          "marketValue": "6441.05",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "26362.5",
           "costBasis": "17895.305"
         }
       }
